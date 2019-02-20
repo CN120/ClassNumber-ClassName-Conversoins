@@ -1,5 +1,5 @@
 # COEN Class Translations
---
+-
 ### With Code
 `12` - Abstract Data types and structes  
 `20` - Intro to Embedded Systems  
